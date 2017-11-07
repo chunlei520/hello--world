@@ -2,4 +2,5 @@
 The first practice on github
 hi chunlei
 this is the first time i try github.
-i will learn more as time goes on
+i will learn more as time goes on.
+This is a good start point
